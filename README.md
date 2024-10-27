@@ -7,7 +7,7 @@
 
 
 ### Olá, sou Rafael Leonan! 👨‍💻
-Desenvolvedor Full Stack com experiência em várias tecnologias.
+Desenvolvedor Full Stack com experiência em diversas tecnologias e projetos realizados.
 
 ### GitHub Stats ⚡
 <div>
